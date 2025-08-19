@@ -2,38 +2,38 @@
   "name": "",
   "children": [
     {
-      "name": "Suprise",
+      "name": "Üllatunud",
       "children": [
         {
-          "name": "Moved",
+          "name": "Liigutatud",
           "children": [
             { "name": "Touched", "size": 1 },
             { "name": "Stimulated", "size": 1 }
           ]
         },
         {
-          "name": "Overcome",
+          "name": "Rabatud",
           "children": [
             { "name": "Astounded", "size": 1 },
             { "name": "Speechless", "size": 1 }
           ]
         },
         {
-          "name": "Amazed",
+          "name": "Hämmastunud",
           "children": [
             { "name": "Awe-struck", "size": 1 },
             { "name": "Astonished", "size": 1 }
           ]
         },
         {
-          "name": "Confused",
+          "name": "Segaduses",
           "children": [
             { "name": "Perplexed", "size": 1 },
             { "name": "Disillusioned", "size": 1 }
           ]
         },
         {
-          "name": "Stunned",
+          "name": "Uimastunud",
           "children": [
             { "name": "Bewildered", "size": 1 },
             { "name": "Shocked", "size": 1 }
